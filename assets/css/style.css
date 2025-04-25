@@ -12811,19 +12811,19 @@ header.header-full-width.header--sticky.sticky {
 }
 @media (min-width: 576px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 100px;
+    font-size: 80px;
     line-height: 110px;
   }
 }
 @media (min-width: 992px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 90px;
+    font-size: 70px;
     line-height: 105px;
   }
 }
 @media (min-width: 1200px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 110px;
+    font-size: 70px;
     line-height: 120px;
   }
 }
@@ -12847,8 +12847,8 @@ header.header-full-width.header--sticky.sticky {
 }
 @media (min-width: 576px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-2 {
-    font-size: 100px;
-    line-height: 110px;
+    font-size: 80px;
+    line-height: 80px;
   }
 }
 @media (min-width: 992px) {
@@ -12859,7 +12859,7 @@ header.header-full-width.header--sticky.sticky {
 }
 @media (min-width: 1200px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-2 {
-    font-size: 110px;
+    font-size: 80px;
     line-height: 120px;
   }
 }
@@ -17917,19 +17917,19 @@ section.clients-testimonial-area {
 }
 @media (min-width: 576px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 100px;
+    font-size: 80px;
     line-height: 110px;
   }
 }
 @media (min-width: 992px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 90px;
+    font-size: 80px;
     line-height: 105px;
   }
 }
 @media (min-width: 1200px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    font-size: 110px;
+    font-size: 80px;
     line-height: 120px;
   }
 }
@@ -17965,7 +17965,7 @@ section.clients-testimonial-area {
 }
 @media (min-width: 1200px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-2 {
-    font-size: 110px;
+    font-size: 80px;
     line-height: 120px;
   }
 }
